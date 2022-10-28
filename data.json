@@ -1,0 +1,16 @@
+[
+    {"id": 1, "nombre": "Usual", "precio": 450, "imagen": "./imagenes/usual1.jpg"},
+    {"id": 2, "nombre": "Urban", "precio": 600, "imagen": "./imagenes/urban1.jpg"},
+    {"id": 3, "nombre": "Gitano", "precio": 900, "imagen": "./imagenes/gitano1.jpg"},
+    {"id": 4, "nombre": "Kingdom", "precio": 500, "imagen": "./imagenes/kingdom1.jpg"},
+    {"id": 5, "nombre": "Rusty", "precio": 760, "imagen": "./imagenes/rusty1.jpg"},
+    {"id": 6, "nombre": "Vulk", "precio": 820, "imagen": "./imagenes/vulk1.jpg"},
+    {"id": 7, "nombre": "Ray-Ban", "precio": 1200, "imagen": "./imagenes/rayban1.jpg"},
+    {"id": 8, "nombre": "Lacoste", "precio": 700, "imagen": "./imagenes/lacoste1.jpg"},
+    {"id": 9, "nombre": "Kenzo", "precio": 690, "imagen": "./imagenes/kenzo1.jpg"},
+    {"id": 10, "nombre": "Union Pacific", "precio": 720, "imagen": "./imagenes/unionpacific1.jpg"},
+    {"id": 11, "nombre": "Tiffany", "precio": 940, "imagen": "./imagenes/tiffany1.jpg"},
+    {"id": 12, "nombre": "Sarkany", "precio": 980, "imagen": "./imagenes/sarkany1.jpg"}
+]
+
+

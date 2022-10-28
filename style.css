@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+li{
+    list-style: none;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border: 3px solid rgb(172, 79, 79);
+    border-radius: 10px;
+}
+
+.container{
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+}
+body{
+    width: 100%;
+    background: rgb(17,96,96);
+    background: linear-gradient(90deg, rgba(17,96,96,1) 0%, rgba(22,200,203,1) 50%, rgba(17,96,96,1) 100%);
+}
+#listaProductos{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-gap: 15px;
+    justify-items: center;
+}
+main{
+    border-right: 3px solid rgba(0, 0, 0, 0.801);
+}
